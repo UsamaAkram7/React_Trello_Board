@@ -5,7 +5,6 @@ Web Application built using React and Redux-Thunk
  - Sign In Page
  - Public/Private Routing 
  - JWT Authentication Token
- - Create/delete columns
  - Create/delete cards
  - Edit card content
  - Move cards between columns
